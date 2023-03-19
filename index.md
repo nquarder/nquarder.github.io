@@ -1,4 +1,4 @@
-## Nate Quarderer PhD
+## Nate Quarderer
 
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
