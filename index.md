@@ -19,5 +19,6 @@ Hi everyone! My name is Nate Quarderer and I'm a post-doc and Interim Director o
 ## Check out some of my work!
 * [Wausau, WI precipitation (1943-2023)](https://nquarder.github.io/notebooks/wausau-precip.html)
 * [Time-series data with Python](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+* [Arctic Temperature Anomalies in April 1850-2023](https://nquarder.github.io/notebooks/arctic-temp-april.html)
 
 
