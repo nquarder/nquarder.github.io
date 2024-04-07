@@ -23,13 +23,13 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 ***
 
 ## Check out some of my work:
-* [Wausau, WI precipitation 1943-2023](https://nquarder.github.io/notebooks/wausau-precip.html)
+* [**Wausau, WI precipitation 1943-2023**](https://nquarder.github.io/notebooks/wausau-precip.html)
 <img style="float: right;" src="/img/wausau-precip.png" height="50%">
 
-* [Iowa River discharge 1903-2023](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+* [**Iowa River discharge 1903-2023**](https://nquarder.github.io/notebooks/08-iowa-flood.html)
 <img style="float: right;" src="/img/ia-river-discharge.png" height="50%">
 
-* [Arctic temperature anomalies in April 1850-2023](https://nquarder.github.io/notebooks/arctic-temp-april.html)
+* [**Arctic temperature anomalies in April 1850-2023**](https://nquarder.github.io/notebooks/arctic-temp-april.html)
 <img style="float: right;" src="/img/arctic-temperature-anomaly.png" height="50%">
 
 
