@@ -1,3 +1,4 @@
+<!--
 <img style="float: right;" src="https://earthlab.colorado.edu/sites/default/files/styles/square_med/public/media/image/profile.png?itok=81I5qGge" width="125" height="125">
 
 ***
@@ -5,6 +6,7 @@
 ![Nate's profile photo](/img/profile.png)
 
 <img style="float: right;" src="img/profile.png" width="25%">
+-->
 
 ### Education Director ([Earth Lab](https://earthlab.colorado.edu/our-team/nathan-quarderer)/ [ESIIL](https://esiil.org/our-team))
 * Email: <a href="mailto:naqu1888@colorado.edu">**Nate's email**</a>
