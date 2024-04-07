@@ -9,7 +9,8 @@
 -->
 
 ### Education Director ([Earth Lab](https://earthlab.colorado.edu/our-team/nathan-quarderer)/ [ESIIL](https://esiil.org/our-team))
-* Email: <a href="mailto:naqu1888@colorado.edu">**Nate's email**</a>
+* Email: <a href="mailto:naqu1888@colorado.edu">Nate's email</a>
+* <a href="https://www.linkedin.com/in/nathan-quarderer-69726b191/">LinkedIn</a>
 * Twitter: [@nquarderer](https://twitter.com/nquarderer)
 * GitHub: [@nquarder](https://github.com/nquarder)
 * ORCiD: [0000-0001-6602-3174](https://orcid.org/0000-0001-6602-3174)
