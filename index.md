@@ -39,8 +39,12 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 * [**NDVI Changes at Newbold, WI - 2010-2022**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/newbold-ndvi.ipynb)
 <img style="float: right;" src="/img/newbold-ndvi.png" height="50%">
 
+***
+
 * [**Landuse at Puerto Asís, Colombia 2002**](https://github.com/earthlab-education/04-geopark-raster-data/blob/main/notebooks/04-geopark-raster-data-solutions.ipynb)
 <img style="float: right;" src="/img/puerto-asis-landcover-2002.png" height="50%">
+
+***
 
 * [**July high temperatures Danmarkshavn, Greenland (1983-2024)**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/ncei-api-demo.ipynb)
 <img style="float: right;" src="/img/greenland-july-temps.png" height="50%">
