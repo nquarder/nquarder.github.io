@@ -8,7 +8,7 @@
 <img style="float: right;" src="img/profile.png" width="25%">
 -->
 
-### Education Director ([Earth Lab](https://earthlab.colorado.edu/our-team/nathan-quarderer)/ [ESIIL](https://esiil.org/our-team))
+## Education Director ([Earth Lab](https://earthlab.colorado.edu/our-team/nathan-quarderer)/ [ESIIL](https://esiil.org/our-team))
 * Email: <a href="mailto:naqu1888@colorado.edu">Nate's email</a>
 * <a href="https://www.linkedin.com/in/nathan-quarderer-69726b191/">LinkedIn</a>
 * Twitter: [@nquarderer](https://twitter.com/nquarderer)
@@ -23,7 +23,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 
 ***
 
-## Check out some of my work:
+### Check out some of my work:
 * [**Wausau, WI precipitation 1943-2023**](https://nquarder.github.io/notebooks/wausau-precip.html)
 <img style="float: right;" src="/img/wausau-precip.png" height="50%">
 
