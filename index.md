@@ -18,7 +18,12 @@ Hi everyone! My name is Nate Quarderer and I'm Education Director at Earth Lab a
 
 ## Check out some of my work!
 * [Wausau, WI precipitation (1943-2023)](https://nquarder.github.io/notebooks/wausau-precip.html)
-* [Time-series data with Python](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+
+* [Iowa River Discharge 1903-2023](https://nquarder.github.io/notebooks/08-iowa-flood.html)
+<img style="float: right;" src="/img/ia-river-discharge.png" height="50%">
+
 * [Arctic Temperature Anomalies in April 1850-2023](https://nquarder.github.io/notebooks/arctic-temp-april.html)
+<img style="float: right;" src="/img/arctic-temperature-anomaly.png" height="50%">
+
 
 
