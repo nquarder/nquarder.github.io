@@ -45,7 +45,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 * [**July high temperatures Danmarkshavn, Greenland (1983-2024)**](https://github.com/nquarder/nquarder.github.io/blob/main/notebooks/ncei-api-demo.ipynb)
 <img style="float: right;" src="/img/greenland-july-temps.png" height="50%">
 
-* [**Interactive map of Kirkwood Community College; Cedar Rapids, IA**]()
-<img style="float: right;" src="img/kirkwood_cc.html" height="50%">
+* [**Interactive map of Kirkwood Community College; Cedar Rapids, IA**](https://github.com/nquarder/first-map-template/blob/main/first-map.ipynb)
+<embed type="text/html" src="kirkwood_cc.html" width="600" height="600">
 
 
