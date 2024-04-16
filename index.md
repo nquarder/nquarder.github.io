@@ -46,6 +46,6 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <img style="float: right;" src="/img/greenland-july-temps.png" height="50%">
 
 * [**Interactive map of Kirkwood Community College; Cedar Rapids, IA**](https://github.com/nquarder/first-map-template/blob/main/first-map.ipynb)
-<embed type="text/html" src="/img/kirkwood_cc.html" width="600" height="600">
+<embed type="text/html" src="/img/cr.html" width="600" height="600">
 
 
