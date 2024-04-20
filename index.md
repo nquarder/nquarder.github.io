@@ -48,4 +48,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 * [**Interactive map of Kirkwood Community College in Cedar Rapids, IA**](https://github.com/nquarder/first-map-template/blob/main/first-map.ipynb)
 <embed type="text/html" src="/img/cr.html" width="600" height="600">
 
+* [**Annual Mean Temperature, Boulder, CO 1983-2023**](https://github.com/nquarder/notebooks/01-time-series-boulder.html)
+<img style="float: right;" src="img/boulder-temp-1983-2023.png">
+
 
