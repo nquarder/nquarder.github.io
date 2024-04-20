@@ -14,6 +14,7 @@
 * Twitter: [@nquarderer](https://twitter.com/nquarderer)
 * GitHub: [@nquarder](https://github.com/nquarder)
 * ORCiD: [0000-0001-6602-3174](https://orcid.org/0000-0001-6602-3174)
+* <a href="https://scholar.google.com/citations?user=JmH0MMIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
 
 Hi everyone! My name is Nate Quarderer and I'm Education Director at <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a> and the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a>. 
 
