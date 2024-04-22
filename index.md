@@ -50,7 +50,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <embed type="text/html" src="/img/cr.html" width="600" height="600">
 
 * [**Annual Mean Temperature, Boulder, CO 1983-2023**](https://nquarder.github.io/notebooks/01-time-series-boulder.html)
-<img style="float: right;" src="img/boulder-temp-1983-2023.png">
+<img style="float: right;" src="img/boulder-temp.png">
 
 * [**Annual Mean Temperature, Cedar Rapids, IA 1920-2020**](https://nquarder.github.io/notebooks/01-time-series-cedar-rapids.html)
 <img style="float: right;" src="img/cr-temp.png">
