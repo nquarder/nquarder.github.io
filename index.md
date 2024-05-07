@@ -11,6 +11,7 @@
 
 ## Education Director ([Earth Lab](https://earthlab.colorado.edu/our-team/nathan-quarderer)/ [ESIIL](https://esiil.org/our-team))
 * Email: <a href="mailto:naqu1888@colorado.edu">Nate's email</a>
+* <a href="https://docs.google.com/document/d/1UZNcXSnRnsQ-Uz3WoSa-JrKID7YULzRT/edit?usp=sharing&ouid=114384468148649901473&rtpof=true&sd=true" target="_blank">Curriculum vitae</a>
 * <a href="https://www.linkedin.com/in/nathan-quarderer-69726b191/" target="_blank">LinkedIn</a>
 * Twitter: <a href="https://twitter.com/nquarderer" target="_blank">@nquarderer</a>
 * GitHub: <a href="https://github.com/nquarder" target="_blank">@nquarder</a>
