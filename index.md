@@ -22,7 +22,7 @@ Hi everyone! My name is Nate Quarderer and I'm Education Director at <a href="ht
 
 Prior to my roles here at Earth Lab and ESIIL, I spent 10 years teaching physics, math, and environmental science at <a href="https://www.nicc.edu/" target="_blank">**Northeast Iowa Community College**</a>. I did my PhD in Teaching & Learning (Science Education) at the <a href="https://www.uiowa.edu/" target="_blank">**University of Iowa**</a> where I studied <a href="https://iro.uiowa.edu/esploro/outputs/9983949497702771?institution=01IOWA_INST&skipUsageReporting=true&recordUsage=false" target="_blank">**how 8th graders come to know about climate change**</a>. 
 
-Since coming to CU as a postdoc in 2020, I was involved with the <a href="https://earthlab.colorado.edu/edsc" target="_blank">**Earth Data Science Corps (EDSC)**</a> program where I served as lead instructor. I'm now overseeing the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> internship, modeled after the ESDC, and the ESIIL <a href="https://esiil.org/data-short-course" target="_blank">**Data Short Course**</a>. I'm excited to be working with the Global Sustainability Scholars (GSS) program this year with [Asia Kaiser](https://github.com/asiakaiser).
+Since coming to CU as a postdoc in 2020, I was involved with the <a href="https://earthlab.colorado.edu/edsc" target="_blank">**Earth Data Science Corps (EDSC)**</a> program where I served as lead instructor. I'm now overseeing the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> internship, modeled after the ESDC, and the ESIIL <a href="https://esiil.org/data-short-course" target="_blank">**Data Short Course**</a>.
 
 ***
 
