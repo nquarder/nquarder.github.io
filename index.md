@@ -18,7 +18,7 @@
 * ORCiD: <a href="https://orcid.org/0000-0001-6602-3174" target="_blank">0000-0001-6602-3174</a>
 * <a href="https://scholar.google.com/citations?user=JmH0MMIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
 
-Hi everyone! My name is Nate Quarderer and I'm Education Director at <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a> and the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a>. 
+Hi everyone! My name is Nate Quarderer and I'm Education Director at <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a> and the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a> I'm also an Instructor at <a href="https://www.frontrange.edu/index.html" target="_blank">**Front Range Community College**</a>. 
 
 Prior to my roles here at Earth Lab and ESIIL, I spent 10 years teaching physics, math, and environmental science at <a href="https://www.nicc.edu/" target="_blank">**Northeast Iowa Community College**</a>. I did my PhD in Teaching & Learning (Science Education) at the <a href="https://www.uiowa.edu/" target="_blank">**University of Iowa**</a> where I studied <a href="https://iro.uiowa.edu/esploro/outputs/9983949497702771?institution=01IOWA_INST&skipUsageReporting=true&recordUsage=false" target="_blank">**how 8th graders come to know about climate change**</a>. 
 
