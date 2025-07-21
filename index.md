@@ -63,4 +63,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 * [**Annual Mean Temperature, Cedar Rapids, IA 1920-2020**](https://nquarder.github.io/notebooks/01-time-series-cedar-rapids.html)
 <img style="float: right;" src="img/cr-temp.png" height="50%">
 
+* [**Annual Mean Temperature, Iowa City, IA 1893-2025**](https://github.com/cu-esiil-edu/01-climate-nquarder/blob/main/notebooks/climate-98-download.ipynb)
+<img style="float: right;" src="img/ic_ann_plot.html" height="50%">
+
 
