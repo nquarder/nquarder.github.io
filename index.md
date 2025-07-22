@@ -13,14 +13,13 @@
 * Email: <a href="mailto:naqu1888@colorado.edu">Nate's email</a>
 * <a href="https://docs.google.com/document/d/1UZNcXSnRnsQ-Uz3WoSa-JrKID7YULzRT/edit?usp=sharing&ouid=114384468148649901473&rtpof=true&sd=true" target="_blank">Curriculum vitae</a>
 * <a href="https://www.linkedin.com/in/nathan-quarderer-69726b191/" target="_blank">LinkedIn</a>
-* Twitter: <a href="https://twitter.com/nquarderer" target="_blank">@nquarderer</a>
 * GitHub: <a href="https://github.com/nquarder" target="_blank">@nquarder</a>
 * ORCiD: <a href="https://orcid.org/0000-0001-6602-3174" target="_blank">0000-0001-6602-3174</a>
 * <a href="https://scholar.google.com/citations?user=JmH0MMIAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
 
 Hi everyone! My name is Nate Quarderer and I'm Education Director at <a href="https://earthlab.colorado.edu/" target="_blank">**Earth Lab**</a> and the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>) at the <a href="https://www.colorado.edu/" target="_blank">**University of Colorado Boulder**</a>. I'm also an Instructor at <a href="https://www.frontrange.edu/index.html" target="_blank">**Front Range Community College**</a> where I teach Environmental Science at the Westminster campus. 
 
-Prior to my roles here at Earth Lab and ESIIL, I spent 10 years teaching physics, math, and environmental science at <a href="https://www.nicc.edu/" target="_blank">**Northeast Iowa Community College**</a>. I did my PhD in Teaching & Learning (Science Education) at the <a href="https://www.uiowa.edu/" target="_blank">**University of Iowa**</a> where I studied <a href="https://iro.uiowa.edu/esploro/outputs/9983949497702771?institution=01IOWA_INST&skipUsageReporting=true&recordUsage=false" target="_blank">**how 8th graders come to know about climate change**</a>. 
+Prior to my roles here at Earth Lab and ESIIL, I spent 10 years teaching physics :bulb: 💡, math, and environmental science at <a href="https://www.nicc.edu/" target="_blank">**Northeast Iowa Community College**</a>. I did my PhD in Teaching & Learning (Science Education) at the <a href="https://www.uiowa.edu/" target="_blank">**University of Iowa**</a> where I studied <a href="https://iro.uiowa.edu/esploro/outputs/9983949497702771?institution=01IOWA_INST&skipUsageReporting=true&recordUsage=false" target="_blank">**how 8th graders come to know about climate change**</a>. 
 
 Since coming to CU as a postdoc in 2020, I was involved with the <a href="https://earthlab.colorado.edu/edsc" target="_blank">**Earth Data Science Corps (EDSC)**</a> program where I served as lead instructor. I'm now overseeing the <a href="https://esiil.org/esiil-stars" target="_blank">**ESIIL Stars**</a> internship, modeled after the ESDC, and the ESIIL <a href="https://esiil.org/data-short-course" target="_blank">**Data Short Course**</a>.
 
