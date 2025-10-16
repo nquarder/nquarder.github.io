@@ -66,6 +66,6 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <embed type="text/html" src="img/ic_ann_plot.html" height="300" width="800">
 
 * [**Sandhill Crane Migration, 2023**](https://github.com/earthlab-education/02-migration-nquarder/blob/main/notebooks/migration-92-download-gbif.ipynb)
-<embed type="text/html" src="img/sandhill-migration2.html" height="400">
+<embed type="text/html" src="img/sandhill-migration2.html" height="400" width="800">
 
 
