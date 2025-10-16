@@ -63,7 +63,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <img style="float: right;" src="img/cr-temp.png" height="50%">
 
 * [**Annual Mean Temperature, Iowa City, IA 1893-2025**](https://github.com/cu-esiil-edu/01-climate-nquarder/blob/main/notebooks/climate-98-download.ipynb)
-<embed type="text/html" src="img/ic_ann_plot.html" height="800" width="600">
+<embed type="text/html" src="img/ic_ann_plot.html" height="400" width="800">
 
 * [**Sandhill Crane Migration, 2023**](https://github.com/earthlab-education/02-migration-nquarder/blob/main/notebooks/migration-92-download-gbif.ipynb)
 <embed type="text/html" src="img/sandhill-migration.html" width="600">
