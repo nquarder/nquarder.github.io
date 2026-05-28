@@ -71,4 +71,8 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 * [**Sandhill Crane Migration, 2023**](https://github.com/earthlab-education/02-migration-nquarder/blob/main/notebooks/migration-92-download-gbif.ipynb)
 <embed type="text/html" src="img/sandhill-migration2.html" height="500" width="1000">
 
+* [**CU Boulder Main Campus**](https://nquarder.github.io/notebooks/cu-main-campus-map.html)
+<img style="float: right;" src="/img/cu_campus_map.html" height="50%">
+
+
 
