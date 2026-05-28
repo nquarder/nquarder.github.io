@@ -72,7 +72,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <embed type="text/html" src="img/sandhill-migration2.html" height="500" width="1000">
 
 * [**CU Boulder Main Campus**](https://nquarder.github.io/notebooks/cu-main-campus-map.html)
-<img style="float: right;" src="/img/cu_campus_map.html" height="50%">
+<embed type="text/html" src="/img/cu_campus_map.html" height="500" width="500">
 
 
 
