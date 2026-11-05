@@ -75,4 +75,7 @@ Since coming to CU as a postdoc in 2020, I was involved with the <a href="https:
 <embed type="text/html" src="/img/cu_campus_map.html" height="650" width="850">
 
 
+![Nate Q with ESIIL Stars 2025](https://cires.colorado.edu/_next/image?url=https%3A%2F%2Fadmin-cires.colorado.edu%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fcard%2Fpublic%2F2025-08%2FESIIL%2520Stars_25.jpg%3Fh%3Df9805672%26itok%3DET2rETMI&w=3840&q=80)
+
+
 
